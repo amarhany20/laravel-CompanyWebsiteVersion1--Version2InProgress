@@ -1,0 +1,51 @@
+v.0.1 (Ammar)
+
+Design
+created 2 controllers home and products
+navigations
+responsiveness
+
+(Need to make the responsiveness of products page)
+________________________________________
+V0.11 (Ammar)
+
+1. Projects Bootstrap fully restored and responsiveness done
+
+Need to 
+
+1. Design pagination
+2. Design filter
+3. Make sliding wheel for home page Projects
+________________________________________
+V0.12 (Ammar)
+
+Too Much
+________________________________________
+V0.2 (Ammar)
+
+01. Home Page Front End Is done
+02. Added Auto Hide Navbar Using HTML CSS JS
+03. Added The Horizontal Scroll
+________________________________________
+v0.5 (Ammar)
+
+01.
+
+
+TO DO
+
+01. Authorization
+02. Image upload
+03. Check if new project's Title unique
+04. Set up View Projects page
+05. Set up Pagination for select projects in admin
+06. Set up Pagination for Projects Page 
+07. Set up Project Details Page
+08. Set Up Search for titles in select project in admin
+08. Set Up Search for titles in Projects Page
+09. Set Up Sort in Projects Page
+10. Set Up Contact Forms Database
+________________________________________
+
+
+
